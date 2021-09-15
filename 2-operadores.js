@@ -1,6 +1,7 @@
-var x =5;
-var y =2;
-
+// var x =5;
+// var y =2;
+var x = 6;
+var y = 8;
 
 var soma = x + y;
 console.log("Soma:"+soma);
